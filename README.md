@@ -1,4 +1,5 @@
-# PORTFOLIO
-making portfolio for 1st time
+# apnacollege-demo
+
+this is my first git repository
 <br>
 author : Suman Bera
